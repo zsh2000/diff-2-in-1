@@ -7,6 +7,7 @@
 
 This repository contains a PyTorch implementation of our paper "Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models". We take the surface normal prediction task on [Bae et al.](https://openaccess.thecvf.com/content/ICCV2021/papers/Bae_Estimating_and_Exploiting_the_Aleatoric_Uncertainty_in_Surface_Normal_Estimation_ICCV_2021_paper.pdf) as an example to show how our Diff-2-in-1 works.
 
+
 ## Installation
 
 #### Tested on a single NVIDIA A100 GPU with 40GB memory.
